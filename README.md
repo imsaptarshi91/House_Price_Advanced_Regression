@@ -1,6 +1,4 @@
 # House_Price_Advanced_Regression
-91% of storage used … If you run out, you can't create, edit and upload files. Get 100 GB of storage for ₹130.00 ₹35.00/month for 3 months.
-# House-Price-Prediction IIITB December 2019
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
  
